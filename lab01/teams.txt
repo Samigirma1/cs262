@@ -1,0 +1,57 @@
+Samuel Zeleke
+CS262L-A
+
+1. Class level: Junior
+         Major: BCS
+   CS112: A, CS212: In progress
+
+2. Technical
+
+	a. Have you worked on any of the following things:
+
+		Java applications - No
+		Portable device applications (Android? iOS?) - No
+		GPS-based systems - No
+		Database-driven web sites or services - No
+		If so, what (briefly) have you done?
+
+	b. Have you used any of the following tools:
+
+		Slack - Yes
+		Trello - Yes
+		Git and/or GitHub - Yes
+		If so, what have you used an how (briefly) have you used it?
+		 
+		I used slack at calvinhacks; trello for a dead start-up project; and
+		Github for my summer research.
+
+	c. Do you have any Android devices and, if so, what sort of devices are they and what version of Android do they run? If you’d prefer to develop on another portable platform, indicate which one and whether you have a device that runs it.
+
+		I have a OnePlus 5. It runs Android Pie.
+
+	d. What project or projects would you like to work on. Include at least one tractable project, say from the previous lab exercise or from the suggested projects in the team project specification.
+		
+		Even if I want to work on the Android platform because it have been used in this
+		course for longer, I also want to explore React-Native or flutter for their cross platform capabilities.
+		
+		Hopefully, I want to work on an app that helps event orgnizers organize event by streamlining the process
+		of hosting event (by helping find venues, connecting them to vendors and service providers), and helps 
+		event-goers by notifying them about event they may be interested in and scheduling ride-sharing services like Uber
+		with-in the app. But I'm open to explore other ideas too. 
+		
+
+3. Personality
+
+	a. What is your big-five personality type? (See the reading guide for how to determine this. Please, give the five trait values only.)
+           
+		O - 94%
+		C - 60%
+		E - 35%
+		A - 71%
+		N - 60%
+
+	b. Is there anyone you’d really like (or not like!) to work with? We’ll do our best to honor your requests here.
+
+		Enoch Mwesigwa
+
+4. Is there anything else you’d like us to know about you before assigning you to a project team?

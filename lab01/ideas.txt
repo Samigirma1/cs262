@@ -1,0 +1,9 @@
+1. An app that can convert images into music and the vise versa. In other words,
+"Listen to your images and look at your music" (wacky)
+The concept can be expanded to convert any file into an image that can be scanned
+by another phone with the app to retrieve the original file locally.
+
+2. Given a student's ID number, or the list of the students classes and sections, 
+an app that retrieves the prices of the textbooks the student needs from Calvin's
+books store, reputable online stores, and listings on social media marketplaces 
+(like Calvin's "Free & For sell" facebook group)
