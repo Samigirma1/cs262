@@ -1,4 +1,6 @@
-# Sample Snack app
+# Homework 3 - React Native and Firebase
+
+This app connects to a firebase database to add words submitted by the user to the database. It then displays the list of words in the database in a List Screen.
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
